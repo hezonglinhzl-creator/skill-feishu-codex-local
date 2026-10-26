@@ -1,0 +1,211 @@
+{
+  "files": 41,
+  "bytes": 72655,
+  "entries": [
+    {
+      "path": ".gitignore",
+      "bytes": 527,
+      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+    },
+    {
+      "path": "apps/feishu-codex-local/agents/openai.yaml",
+      "bytes": 261,
+      "sha256": "2ea1766cf5c55a6af184d6b142584e2f5a00bc3796f0c168f676d1fd6c685af3"
+    },
+    {
+      "path": "apps/feishu-codex-local/examples/sample_native_tables.md",
+      "bytes": 449,
+      "sha256": "1ca6d0df76f86003cbb08bddba6ce57d22585814926946953661a9e65c9638c1"
+    },
+    {
+      "path": "apps/feishu-codex-local/README.md",
+      "bytes": 1029,
+      "sha256": "9cd0958d14142b530b5ec0aa66adc0cb35a2f74645b680f6d5da1bba202dfc84"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/check-status.ps1",
+      "bytes": 843,
+      "sha256": "81c446a5fd3678654656eb7d37acc58ef6641e14b452ee5780acceb1100e894e"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/common.ps1",
+      "bytes": 1279,
+      "sha256": "f113707b7f9ede6ed1327e4b5f0a9d7a74ab6ce3ccc1dfd72f4f3bc96d34b1ac"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/configure-bridge.ps1",
+      "bytes": 1717,
+      "sha256": "b61274c57683ada754bf16f406909a0608efaa582fc5e35affe4686405f2bda5"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/feishu_docs.py",
+      "bytes": 13211,
+      "sha256": "d8a49e91397f7484e584e7758c783745b0239aa61846b21b26d491c7179d532e"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/feishu_import_markdown_tables.py",
+      "bytes": 8034,
+      "sha256": "f215be8bb85eaa98abf63df7681973e00a32c6656a363d088aa5c4b856f504b7"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/install-windows.ps1",
+      "bytes": 1259,
+      "sha256": "489851e702a00f5459d124c7049a0c584b5416fafee430d578858aae4653973a"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/start-bridge.ps1",
+      "bytes": 875,
+      "sha256": "1e90a1b0f9d4658651941da01358c361ad7d2f2a6cd2306f21bdfb09ae53386c"
+    },
+    {
+      "path": "apps/feishu-codex-local/scripts/verify_native_tables.py",
+      "bytes": 2811,
+      "sha256": "81a0977b1a3146ae407d90e5e99cd6166eb67bab4a18054a30b897284dcb8ce6"
+    },
+    {
+      "path": "apps/feishu-codex-local/SKILL.md",
+      "bytes": 2512,
+      "sha256": "5dad5dee3e1cce0573b53e7ddb81e41e5a88068d2c88bc584013f47d8c490633"
+    },
+    {
+      "path": "apps/feishu-codex-local/启动.bat",
+      "bytes": 100,
+      "sha256": "d18b048ba5b7afc50bd56b7faf0603804ecf1b94b724d91d2a91fbbc43f8eff3"
+    },
+    {
+      "path": "apps/feishu-codex-local/安装.bat",
+      "bytes": 103,
+      "sha256": "3ad888065c0de095f09272afcc05ad07927633f70e4b8357ad6ae3a466c8f6b0"
+    },
+    {
+      "path": "apps/feishu-codex-local/检查OpenAPI.bat",
+      "bytes": 233,
+      "sha256": "5d1b84454a572d44c203aedf7c8cd68cb5b19f9bc4776cac9fd317351a0ecc5f"
+    },
+    {
+      "path": "apps/feishu-codex-local/检查状态.bat",
+      "bytes": 100,
+      "sha256": "e9effb75baad807e53502eeecec5e0a8736621a50ef4cc3e95f5001bc6f0939a"
+    },
+    {
+      "path": "apps/feishu-codex-local/配置.bat",
+      "bytes": 104,
+      "sha256": "3e22f770585df9566418a6cece0bee3090052f39a895587758d95c6a939ae111"
+    },
+    {
+      "path": "apps/feishu-codex-local/配置OpenAPI.bat",
+      "bytes": 241,
+      "sha256": "94367e2974875b83cf1ec22fe6b7f249d984c3c0773d8eb3e6eed9494a8fe092"
+    },
+    {
+      "path": "install.ps1",
+      "bytes": 646,
+      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+    },
+    {
+      "path": "README.md",
+      "bytes": 960,
+      "sha256": "9d5516e3a36c7505af9d83dda718435bbcac0355ec963a5b029b63c4d421316e"
+    },
+    {
+      "path": "skill/feishu-codex-local/agents/openai.yaml",
+      "bytes": 261,
+      "sha256": "2ea1766cf5c55a6af184d6b142584e2f5a00bc3796f0c168f676d1fd6c685af3"
+    },
+    {
+      "path": "skill/feishu-codex-local/examples/sample_native_tables.md",
+      "bytes": 449,
+      "sha256": "1ca6d0df76f86003cbb08bddba6ce57d22585814926946953661a9e65c9638c1"
+    },
+    {
+      "path": "skill/feishu-codex-local/README.md",
+      "bytes": 1029,
+      "sha256": "9cd0958d14142b530b5ec0aa66adc0cb35a2f74645b680f6d5da1bba202dfc84"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/check-status.ps1",
+      "bytes": 843,
+      "sha256": "81c446a5fd3678654656eb7d37acc58ef6641e14b452ee5780acceb1100e894e"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/common.ps1",
+      "bytes": 1279,
+      "sha256": "f113707b7f9ede6ed1327e4b5f0a9d7a74ab6ce3ccc1dfd72f4f3bc96d34b1ac"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/configure-bridge.ps1",
+      "bytes": 1717,
+      "sha256": "b61274c57683ada754bf16f406909a0608efaa582fc5e35affe4686405f2bda5"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/feishu_docs.py",
+      "bytes": 13211,
+      "sha256": "d8a49e91397f7484e584e7758c783745b0239aa61846b21b26d491c7179d532e"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/feishu_import_markdown_tables.py",
+      "bytes": 8034,
+      "sha256": "f215be8bb85eaa98abf63df7681973e00a32c6656a363d088aa5c4b856f504b7"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/install-windows.ps1",
+      "bytes": 1259,
+      "sha256": "489851e702a00f5459d124c7049a0c584b5416fafee430d578858aae4653973a"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/start-bridge.ps1",
+      "bytes": 875,
+      "sha256": "1e90a1b0f9d4658651941da01358c361ad7d2f2a6cd2306f21bdfb09ae53386c"
+    },
+    {
+      "path": "skill/feishu-codex-local/scripts/verify_native_tables.py",
+      "bytes": 2811,
+      "sha256": "81a0977b1a3146ae407d90e5e99cd6166eb67bab4a18054a30b897284dcb8ce6"
+    },
+    {
+      "path": "skill/feishu-codex-local/SKILL.md",
+      "bytes": 2512,
+      "sha256": "5dad5dee3e1cce0573b53e7ddb81e41e5a88068d2c88bc584013f47d8c490633"
+    },
+    {
+      "path": "skill/feishu-codex-local/启动.bat",
+      "bytes": 100,
+      "sha256": "d18b048ba5b7afc50bd56b7faf0603804ecf1b94b724d91d2a91fbbc43f8eff3"
+    },
+    {
+      "path": "skill/feishu-codex-local/安装.bat",
+      "bytes": 103,
+      "sha256": "3ad888065c0de095f09272afcc05ad07927633f70e4b8357ad6ae3a466c8f6b0"
+    },
+    {
+      "path": "skill/feishu-codex-local/检查OpenAPI.bat",
+      "bytes": 233,
+      "sha256": "5d1b84454a572d44c203aedf7c8cd68cb5b19f9bc4776cac9fd317351a0ecc5f"
+    },
+    {
+      "path": "skill/feishu-codex-local/检查状态.bat",
+      "bytes": 100,
+      "sha256": "e9effb75baad807e53502eeecec5e0a8736621a50ef4cc3e95f5001bc6f0939a"
+    },
+    {
+      "path": "skill/feishu-codex-local/配置.bat",
+      "bytes": 104,
+      "sha256": "3e22f770585df9566418a6cece0bee3090052f39a895587758d95c6a939ae111"
+    },
+    {
+      "path": "skill/feishu-codex-local/配置OpenAPI.bat",
+      "bytes": 241,
+      "sha256": "94367e2974875b83cf1ec22fe6b7f249d984c3c0773d8eb3e6eed9494a8fe092"
+    },
+    {
+      "path": "安装Skill.cmd",
+      "bytes": 105,
+      "sha256": "ad77696738bfb2f92f802e0941c18cb906baad9989a604536cfc81a60e176d1a"
+    },
+    {
+      "path": "打开程序文件夹.cmd",
+      "bytes": 95,
+      "sha256": "c4f42f3bec05b83599d984b3c79328e6fc93fb2be392fea35477918acd16759d"
+    }
+  ]
+}
