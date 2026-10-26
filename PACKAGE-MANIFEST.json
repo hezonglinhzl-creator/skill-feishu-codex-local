@@ -1,6 +1,6 @@
 {
-  "files": 41,
-  "bytes": 72655,
+  "files": 44,
+  "bytes": 88366,
   "entries": [
     {
       "path": ".gitignore",
@@ -18,9 +18,14 @@
       "sha256": "1ca6d0df76f86003cbb08bddba6ce57d22585814926946953661a9e65c9638c1"
     },
     {
+      "path": "apps/feishu-codex-local/README.en.md",
+      "bytes": 2301,
+      "sha256": "505ed0626f9950090a2a45a5d34cbf65befef1bf066988f16a50eff93c29e9c7"
+    },
+    {
       "path": "apps/feishu-codex-local/README.md",
-      "bytes": 1029,
-      "sha256": "9cd0958d14142b530b5ec0aa66adc0cb35a2f74645b680f6d5da1bba202dfc84"
+      "bytes": 2277,
+      "sha256": "cab33de0557782e409e5b5639f9931a69d81eb63904051f67d441d19431ab847"
     },
     {
       "path": "apps/feishu-codex-local/scripts/check-status.ps1",
@@ -103,9 +108,14 @@
       "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
     },
     {
+      "path": "README.en.md",
+      "bytes": 4149,
+      "sha256": "7bc9bf4bce1c83a150c0573aa51eeb7cd890298f685c3a8b98247611f02627c9"
+    },
+    {
       "path": "README.md",
-      "bytes": 960,
-      "sha256": "9d5516e3a36c7505af9d83dda718435bbcac0355ec963a5b029b63c4d421316e"
+      "bytes": 3993,
+      "sha256": "ecae8e03395715e10d0060a286469dcec32b306b326d7c2b883c5c8c80551fcb"
     },
     {
       "path": "skill/feishu-codex-local/agents/openai.yaml",
@@ -118,9 +128,14 @@
       "sha256": "1ca6d0df76f86003cbb08bddba6ce57d22585814926946953661a9e65c9638c1"
     },
     {
+      "path": "skill/feishu-codex-local/README.en.md",
+      "bytes": 3031,
+      "sha256": "e9fadd4380d3800c272dd81baeff81017094e1f82502b90041418aea1ca4df93"
+    },
+    {
       "path": "skill/feishu-codex-local/README.md",
-      "bytes": 1029,
-      "sha256": "9cd0958d14142b530b5ec0aa66adc0cb35a2f74645b680f6d5da1bba202dfc84"
+      "bytes": 2978,
+      "sha256": "1dd7b4eb39ceedf7c45984864ed1948de6d1b25914a8acea389fa0f4c57504fe"
     },
     {
       "path": "skill/feishu-codex-local/scripts/check-status.ps1",
