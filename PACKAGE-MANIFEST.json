@@ -1,11 +1,11 @@
 {
   "files": 44,
-  "bytes": 88366,
+  "bytes": 91655,
   "entries": [
     {
       "path": ".gitignore",
-      "bytes": 527,
-      "sha256": "66217f0f41c5aa9113a779c5689e63dd8168e0b6ee1317b7a42003ed9c34120b"
+      "bytes": 552,
+      "sha256": "306594764a35cf47b68ddefaf227968de9684a1c465fafa94d821ba4c5162e96"
     },
     {
       "path": "apps/feishu-codex-local/agents/openai.yaml",
@@ -104,18 +104,18 @@
     },
     {
       "path": "install.ps1",
-      "bytes": 646,
-      "sha256": "2d27453c6a86ece11814c03c03496f2bf6e5d035da2e01d958ee1a724c904b7c"
+      "bytes": 2339,
+      "sha256": "d662489ba0c1bf009c714b6030eab322a04042b5d8ff441eeb56bb4549763dd3"
     },
     {
       "path": "README.en.md",
-      "bytes": 4149,
-      "sha256": "7bc9bf4bce1c83a150c0573aa51eeb7cd890298f685c3a8b98247611f02627c9"
+      "bytes": 4439,
+      "sha256": "29a03bcc638e3bdaa724108c3988a5e0a893593b279a99b2932778d936c2d2c0"
     },
     {
       "path": "README.md",
-      "bytes": 3993,
-      "sha256": "ecae8e03395715e10d0060a286469dcec32b306b326d7c2b883c5c8c80551fcb"
+      "bytes": 4229,
+      "sha256": "d55544852ebd7b2500a154b6ffa3b422732582a91e90cf9a10f1392a94972e66"
     },
     {
       "path": "skill/feishu-codex-local/agents/openai.yaml",
@@ -179,8 +179,8 @@
     },
     {
       "path": "skill/feishu-codex-local/SKILL.md",
-      "bytes": 2512,
-      "sha256": "5dad5dee3e1cce0573b53e7ddb81e41e5a88068d2c88bc584013f47d8c490633"
+      "bytes": 3557,
+      "sha256": "a2cad4f1b3236dcf8a103449d04691534d1799c38e2b5e3ef267294181a9bcfd"
     },
     {
       "path": "skill/feishu-codex-local/启动.bat",
